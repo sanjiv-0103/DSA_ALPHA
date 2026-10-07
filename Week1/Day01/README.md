@@ -8,7 +8,7 @@
 | Two Sum II | Brute force - check every pair | O(n²) | O(1) |
 | Pair with Given Sum | Brute force - check every pair | O(n²) | O(1) |
 
-## Extra Points
+## Key Points
 - Pair problems use 2 loops.
 - 3Sum uses 3 loops.
 - Brute force is simple but slower for large inputs.
