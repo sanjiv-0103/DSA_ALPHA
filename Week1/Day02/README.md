@@ -8,7 +8,7 @@
 | First Repeating Element | Brute force - find first repeated value | O(n²) | O(1) |
 | Duplicate Zeros | Build result and duplicate zeros | O(n) | O(n) |
 
-## Key Points
+## Key Points :
 - A set helps check whether a value was already seen.
 - Duplicate problems often use membership checking.
 - Brute force is easier to understand but may be slower.
