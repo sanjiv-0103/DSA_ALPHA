@@ -11,5 +11,5 @@
 ## Key Points
 - `a ^ a = 0`
 - `a ^ 0 = a`
-- XOR works when duplicate values appear in pairs.
-- Single Number II needs a different approach because values appear three times.
+- XOR works when duplicate values appear in pairs
+- Single Number II needs a different approach because values appear three times
